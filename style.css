@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+    padding: 0px;
+   
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+  
+
+}
+h1,ul,li{
+    display: inline;
+ 
+   
+}
+ul{
+    margin-left: 980px;
+}
+li{
+    color: gray;
+    cursor: grab;
+}
+
+li:hover{
+    color: yellow;
+
+}
+input{
+    width: 700px;
+    padding: 15px;
+    margin: 30px;
+  
+}
+.Searchbar{
+    text-align: center;
+    
+}
